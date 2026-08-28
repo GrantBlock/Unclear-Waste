@@ -9,6 +9,7 @@ sketch a coherent system before any RFQ goes out — vendor selection is a later
 
 | Pass | Line item(s) on tracker | File |
 |---|---|---|
+| Process map (ground truth) | Overhead layout, footprints, and utility schedule for all 9 stations, from the customer's DWG 7332 | [process-map.md](process-map.md) |
 | Green sand mulling | #2 Sand Mixer (already Simpson — "1F mix-muller"; primer + sizing/compatibility check) | [green-sand-mulling.md](green-sand-mulling.md) |
 | Molding press | #5 Molding Hopper, #6 Molding Press (both currently "-", unsourced) | [molding-press.md](molding-press.md) |
 | Melting furnace | #9 Furnace (listed "Stahl Specialty Co" — a Kingsville/Warrensburg, MO permanent-mold aluminum foundry with real in-house furnace-building experience, per the customer) | [furnace-melting.md](furnace-melting.md) |
