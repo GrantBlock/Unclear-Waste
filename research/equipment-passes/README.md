@@ -9,9 +9,11 @@ scope and quote the "TO" columns.
 
 | Pass | Line item(s) on tracker | File |
 |---|---|---|
+| Green sand mulling | #2 Sand Mixer (already Simpson — "1F mix-muller"; primer + sizing check, not a vendor search) | [green-sand-mulling.md](green-sand-mulling.md) |
+| Molding press | #5 Molding Hopper, #6 Molding Press (both currently "-", unsourced) | [molding-press.md](molding-press.md) |
 | Melting furnace | #9 Furnace (listed "Stahl Specialty Co" — likely the customer's prior employer/reference foundry, not a furnace OEM; treat as unsourced) | [furnace-melting.md](furnace-melting.md) |
 | Mold filling / pouring | #10 Furnace Pouring Robot (currently "None") | [mold-filling-pouring.md](mold-filling-pouring.md) |
-| Molding press | #5 Molding Hopper, #6 Molding Press (both currently "-", unsourced) | [molding-press.md](molding-press.md) |
+| Green sand reclamation | #16 Sand reclamation, #17 Reclaimed Sand Elevator (already Simpson; primer + method check, not a vendor search) | [green-sand-reclamation.md](green-sand-reclamation.md) |
 
 **Cross-cutting finding:** Clay & Bailey's existing sand-side equipment (#1 Sand Hopper, #2 Sand
 Mixer, #14 Mold shakeout, #16 Sand reclamation, #17 Reclaimed Sand Elevator) is already Simpson.
