@@ -1,9 +1,14 @@
 # Melting Furnace — Specialty Equipment Pass — Pass date: 2026-08-28
 
 Tracker line item #9 "Furnace" — currently lists "Stahl Specialty Co" under FROM/MFG. Stahl
-Specialty is an aluminum foundry (Kingsville, MO), not a furnace manufacturer, so this reads as
-the customer's reference/prior employer rather than an actual OEM — **treat as unsourced** for
-the TO column.
+Specialty runs permanent-mold aluminum casting plants in both Kingsville and Warrensburg, MO,
+and — per the customer — has built its own furnace equipment in-house at the Warrensburg plant
+for many years (their own materials call out bottom-drop quench furnaces, heat-treat furnaces,
+and tilt casting machines as in-house engineering innovations). That's real aluminum furnace
+expertise, but it reads as capability built for their own permanent-mold casting operations
+rather than a commercial furnace OEM selling equipment to other foundries — worth a direct
+conversation with Stahl to find out whether they'd design/build or consult on this line's
+melting furnace, run alongside quotes from the vendors below rather than instead of them.
 
 ## Terminology check: "electric arc furnace" isn't the standard fit for aluminum
 
@@ -27,6 +32,7 @@ certainly the right family to quote — worth confirming with the customer befor
 
 | Vendor | Product line | Type | Capacity range | Fit notes | Source |
 |---|---|---|---|---|---|
+| Stahl Specialty Co. (Warrensburg, MO) | In-house furnace engineering (bottom-drop quench, heat-treat furnaces, tilt casting machines) | Aluminum-specific, built for their own permanent-mold lines | Not published — bespoke to their own plants | Real, decades-deep aluminum furnace expertise at a nearby Missouri plant, but built for internal use, not sold commercially as a rule. Worth a direct call to find out if they'd design/build or consult on this line rather than assuming they're off the table. | Corrected by customer 2026-08-28; company background at [stahlspecialty.com](https://stahlspecialty.com/about-stahl-permanent-mold-aluminum-castings/) |
 | StrikoWestofen (Norican Group) | StrikoMelter MH II (shaft/stack melter, stationary or tilting), Westomat ProDos dosing furnaces | Electric/gas shaft melting + holding, integrated dosing | MH II series ~750–3,000 kg bath, 500–2,000 kg/h melt rate | Sister company to Simpson (both Norican) — same parent as the customer's existing sand-side equipment. Westomat dosing furnace can feed metal directly to a mold or casting machine, which could fold the "Furnace Pouring Robot" line item (#10) into the furnace package instead of a separate robot cell. | [strikowestofen.com](https://www.strikowestofen.com/melting-and-holding-furnaces/), [StrikoMelter capacity data](https://www.diecastmachinery.com/UserFiles/InventoryFiles/d/DieCastMachinery-2504-059f6d7e86d695b94ab07906ae69309a.pdf) |
 | Modern Equipment Company | Reverberatory and resistance melt/hold furnaces | Gas or electric resistance | Sized to order | Established US aluminum furnace builder; came up alongside Lindberg-MPH and FW Schaefer in supplier listings, but public spec detail is thin — go direct for a quote. | [diecastmachinery.com furnace listing](https://www.diecastmachinery.com/Aluminum-Melting-Furnaces.php) |
 | The Schaefer Group (FW Schaefer) | Electric aluminum melt/hold furnaces | Electric resistance | Sized to order | Named as a peer to Modern Equipment in the same search pass; not independently verified beyond the vendor page found. | [theschaefergroup.com](https://www.theschaefergroup.com/electric_aluminum.php) |
@@ -34,12 +40,14 @@ certainly the right family to quote — worth confirming with the customer befor
 
 ## Recommendation for next step
 
-Get a StrikoWestofen quote first given the Norican/Simpson relationship — ask the Simpson rep
-already on this project to make the introduction, since a single-group deal may simplify
-commissioning and service. Get Modern Equipment or Schaefer as an independent second quote to
-keep pricing honest. Confirm melt-rate requirement (kg/h or lb/h) against the line's target mold
-throughput before sizing any of these — that number wasn't in the tracker and drives furnace
-size more than anything else.
+Call Stahl Specialty first — they're a known quantity with real in-house furnace-building
+experience at a Missouri plant, and it costs nothing to ask whether they'd take this on or point
+toward who they'd recommend. In parallel, get a StrikoWestofen quote given the Norican/Simpson
+relationship — ask the Simpson rep already on this project to make the introduction, since a
+single-group deal may simplify commissioning and service. Get Modern Equipment or Schaefer as a
+further independent quote to keep pricing honest. Confirm melt-rate requirement (kg/h or lb/h)
+against the line's target mold throughput before sizing any of these — that number wasn't in the
+tracker and drives furnace size more than anything else.
 
 Sources: [Electric Arc Furnace vs Induction Furnace: Efficiency Analysis](https://eureka.patsnap.com/report-electric-arc-furnace-vs-induction-furnace-efficiency-analysis) ·
 [Electric arc furnace (Wikipedia)](https://en.wikipedia.org/wiki/Electric_arc_furnace) ·
