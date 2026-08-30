@@ -49,6 +49,32 @@ Get the "1F" Mix-Muller's rated batch size and cycle time from Simpson (serial 1
 should trace to exact specs) before the molding press decision is finalized — it's the upstream
 constraint the press choice has to respect, not the other way around.
 
+## Interim sizing worksheet (pending Simpson's real spec sheet for 1F-0113-1803)
+
+No public spec sheet names a Simpson "1F" model specifically — the designation doesn't appear in
+Simpson's current product literature or in any dealer/reseller listing found this pass. The table
+below interpolates between the two Simpson batch-muller sizes with confirmed public specs (Model
+05 at the small end, Model 6GP at the large end) to give a working range, not a confirmed figure.
+Treat every row as an estimate until Simpson's service line traces the actual unit off the serial
+number.
+
+| Spec | Working estimate | Basis |
+|---|---|---|
+| Batch capacity | ~300–450 lb/cycle | Interpolated between Model 05 (3 ft³ bowl, 150 lb batch) and Model 6GP (90 ft³ working capacity) — "1F" sits well above 05 in Simpson's sizing |
+| Cycle time | 3–6 min/batch | Documented range for Simpson's Mix-Muller line generally (heavier wheels, slower squeeze action vs. the faster Speedmullor); industry floor is ~90 sec for any batch muller to develop sand properties adequately |
+| Bowl dimensions | Roughly 48–60 in dia × 16–20 in deep | Interpolated between Model 05 (39.25 in dia × 12 in deep) and Model 6GP (120 in dia) — wide gap between the two confirmed points, so loose |
+| Motor | Roughly 15–40 HP | Interpolated between Model 05 (3–5 HP) and Model 6GP (200 HP) — same caveat, wide gap |
+| Throughput | ~1.75–3.5 tons/hr | Derived, not sourced: (batch capacity ÷ cycle time) × 60, across the ranges above |
+
+**Process parameters** (sand grain fineness, sand/bentonite/water ratio, target compactability)
+aren't muller-model-specific — they're recipe targets set by the sand system, not the machine.
+For this line specifically: standard green sand ratios (92–96% sand / 5–8% bentonite / 2.5–4%
+water) and a 35–45% compactability target both match standard practice with no correction needed.
+Grain fineness is worth reconsidering, though — AFS 50–70 GFN is closer to typical *iron* green
+sand practice; aluminum work, especially thin-wall, generally runs finer for surface finish (one
+cited aluminum case study measured AFS 83–89, and permeability's sensitivity to grain size levels
+out around AFS 80). **AFS 70–100 GFN** is a better-fit target range for this line than 50–70.
+
 Sources: [Multi-Mull Continuous Mixer — Simpson](https://www.simpsongroup.com/multi-mull/) ·
 [Muller Options for Foundry Mixing — Simpson](https://www.simpsongroup.com/muller-options/) ·
 [Mix-Muller batch mixer — Simpson](https://www.simpsongroup.com/equipment/sand-preparation/mix-muller) ·
@@ -56,4 +82,11 @@ Sources: [Multi-Mull Continuous Mixer — Simpson](https://www.simpsongroup.com/
 [Simpson Multi-Mull Continuous Mixer](https://www.simpsongroup.com/multi-mull-continuous-mixer/) ·
 [Batch Sand Mixers — Palmer Manufacturing](https://www.palmermfg.com/batch-mixers.php) ·
 [M-Series Sand Mixers — Palmer Manufacturing](https://www.palmermfg.com/m-series-mixers-options.php) ·
-[Continuous Sand Mixers — Palmer corporate brochure](https://www.palmermfg.com/pdfs/2018-Palmer_CorporateBrochure-ENG_LR.pdf)
+[Continuous Sand Mixers — Palmer corporate brochure](https://www.palmermfg.com/pdfs/2018-Palmer_CorporateBrochure-ENG_LR.pdf) ·
+[Simpson Model 05 Mix-Muller — Wohl Associates](https://www.wohlassociates.com/used-mixers/simpson-model-05-mix-muller-batch-mixer.html) ·
+[Simpson Model 05 — Aaron Equipment](https://www.aaronequipment.com/usedequipment/mixers/muller-mixer/simpson-05-molder-47214001) ·
+[6GP National Engineering Simpson Mix-Muller — Federal Equipment](https://fedequip.com/inventory/Muller-Intensive-Mixers/6GP-NATIONAL-ENGINEERING-SIMPSON-MIX-MULLER-C-S.html) ·
+[Basic Principles of Sand Mixing — Foundry Mgmt & Tech](https://www.foundrymag.com/molds-cores/article/21928413/basic-principles-of-sand-mixing) ·
+[Are you Under-mixing or Over-mixing your Green Sand? — Versatile Group](https://www.versatile.group/post/are-you-under-mixing-or-over-mixing-your-green-sand-enter-the-wet-tensile-strength) ·
+[Sand Testing — American Foundry Society](https://www.afsinc.org/e-learning/sand-testing) ·
+[What Do the Numbers Mean? — Modern Casting](https://www.moderncasting.com/articles/2014/12/15/what-do-numbers-mean)
