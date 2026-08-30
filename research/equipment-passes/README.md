@@ -13,6 +13,7 @@ sketch a coherent system before any RFQ goes out — vendor selection is a later
 | Green sand mulling | #2 Sand Mixer (already Simpson — "1F mix-muller"; primer + sizing/compatibility check) | [green-sand-mulling.md](green-sand-mulling.md) |
 | Molding press | #5 Molding Hopper, #6 Molding Press (both currently "-", unsourced) | [molding-press.md](molding-press.md) |
 | Melting furnace | #9 Furnace (listed "Stahl Specialty Co" — a Kingsville/Warrensburg, MO permanent-mold aluminum foundry with real in-house furnace-building experience, per the customer) | [furnace-melting.md](furnace-melting.md) |
+| Molding + furnace specification list | Discovery checklist for cast volume, cooling cycle time, molds/hour, parts/hour, and alloy quality — the linked numbers both #5/#6 and #9 need before quoting | [molding-furnace-specification.md](molding-furnace-specification.md) |
 | Mold filling / pouring | #10 Furnace Pouring Robot (currently "None") — not revised this pass; see file for prior notes | [mold-filling-pouring.md](mold-filling-pouring.md) |
 | Green sand reclamation | #16 Sand reclamation, #17 Reclaimed Sand Elevator (already Simpson; primer + method/compatibility check) | [green-sand-reclamation.md](green-sand-reclamation.md) |
 
